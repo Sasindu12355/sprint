@@ -1,0 +1,9 @@
+{
+	"command": "java -jar testapp-0.0.1-SNAPSHOT.jar",
+	"build_path": "D:\\Downloads\\testapp\\deploy",
+	"stack": "java17",
+	"env_variables": {},
+	"memory": 256,
+	"scripts": {},
+	"platform": "javase"
+}

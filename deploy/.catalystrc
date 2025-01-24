@@ -1,0 +1,30 @@
+{
+  "defaults": {
+    "project": 1,
+    "env": 1
+  },
+  "actives": {
+    "project": 1,
+    "env": 1
+  },
+  "projects": [
+    {
+      "idx": 1,
+      "id": "30029000000020001",
+      "name": "imageapijava",
+      "domain": {
+        "id": "10094855039",
+        "name": "imageapijava-875857366.development"
+      },
+      "timezone": "Asia/Colombo",
+      "env": [
+        {
+          "idx": 1,
+          "id": "875857366",
+          "name": "Development",
+          "type": 3
+        }
+      ]
+    }
+  ]
+}
